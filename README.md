@@ -1,5 +1,5 @@
 # Repositório Perfil
-### Este Repositório foi criado para reunir informaçã do perfil desenvolvido
+### Este Repositório foi criado para reunir informação do perfil desenvolvido
 # GitHub Foundations
 ### Modulo 1
 ![Modulo 1](Modulo1.png)
