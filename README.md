@@ -2,12 +2,6 @@
 ### Este Repositório foi criado para reunir informação do perfil desenvolvido
 # GitHub Foundations
 
-<h1>Certificados:</h1>
-<h2>GitHub Foundations Parte 1 de 2 =</h2>
-
-<a href="https://learn.microsoft.com/api/achievements/share/pt-br/MIGUELPALUCHDAROCHA-8411/2T8GMAEV?sharingId=3486283F35943EFA" target="_blank">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/8-learn-continuous-integration-with-github-actions.svg" width="120" alt="Certificado Microsoft Learn">
-</a>
 ### Modulo 1
 ![Modulo 1](Modulo1.png)
 ### Modulo 2
@@ -24,3 +18,10 @@
 ![Modulo 7](Modulo7.png)
 ### Modulo 8
 ![Modulo 8](Modulo8.png)
+
+<h1>Certificados:</h1>
+<h2>GitHub Foundations Parte 1 de 2 =</h2>
+
+<a href="https://learn.microsoft.com/api/achievements/share/pt-br/MIGUELPALUCHDAROCHA-8411/2T8GMAEV?sharingId=3486283F35943EFA" target="_blank">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/8-learn-continuous-integration-with-github-actions.svg" width="120" alt="Certificado Microsoft Learn">
+</a>
